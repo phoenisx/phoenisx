@@ -28,3 +28,6 @@ We Fall we Rise. 🔥
     <i>There are a lot of great performance improvements to come in near future.</i> :wink:
   </li>
 </ul>
+
+### GitHub stats
+![phoenisx's github stats](https://github-readme-stats.vercel.app/api?username=phoenisx&count_private=true&hide_title=true)
