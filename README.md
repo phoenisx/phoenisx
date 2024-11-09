@@ -1,5 +1,7 @@
 # Phoenix
 
+**`AVAILABLE FOR HIRE`**
+
 We Fall we Rise. 🔥
 
 ## Working on:
