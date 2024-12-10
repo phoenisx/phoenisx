@@ -1,6 +1,6 @@
 # Phoenix
 
-**`AVAILABLE FOR HIRE`**
+**`AVAILABLE ON CONTRACT`**
 
 We Fall we Rise. 🔥
 
@@ -23,11 +23,7 @@ We Fall we Rise. 🔥
     Exploring new things
   </li>
   <li>
-    Performance improvements in
-    <a href="https://www.postman.com/">
-      Postman App
-    </a>.
-    <i>There are a lot of great performance improvements to come in near future.</i> :wink:
+    Making stuff using Go, Wails, ThreeJS and JS. (I still like Rust/Tauri, but I'll get back to it once I'm done with a few personal projects) 
   </li>
 </ul>
 
